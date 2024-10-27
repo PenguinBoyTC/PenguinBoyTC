@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Chasen Tan
+- 👋 Hi, I’m Chong(Chasen)Tan
 - 👨🏻‍🎓 I graduated from Carnegie Mellon University with a Master of Science degree in Computer Software Engineering
-- 👨🏻‍💻 I worked at Apple as Software Engineer intern in summer 2022. Previously, I worked at Oracle as a full-time Software Engineer.
+- 👨🏻‍💻 I'm currently a Software Engineer at Kodiak Science Inc. with over 3 years of full-time industry experience at leading tech companies like Apple and Oracle, specializing in a wide range of programming languages and tools. Proficient in developing efficient Backend Systems, robust Frontend Web apps, and reliable DevOps.
+
 - 📫 How to reach me: chong.tan0811@gmail.com
 
 <!---
